@@ -8,7 +8,6 @@
 
 ---
 
-## 🏆 GitHub 成就奖杯
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Zzz-vov123&theme=onedark&row=1&column=6)
 
